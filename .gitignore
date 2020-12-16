@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+layoutlm/examples/seq_labeling/data/
+layoutlm/examples/seq_labeling/data_new/
+layoutlm/examples/seq_labeling/output/
+layoutlm/examples/seq_labeling/output_legacy/
+layoutlm/model_backup/
+layoutlm/examples/seq_labeling/pretrained_model/
+layoutlm/pretrained_model/
